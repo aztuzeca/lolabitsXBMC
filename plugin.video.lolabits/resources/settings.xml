@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="General">
+      <setting label="Configuración General" type="lsep" />
+      <setting id="lolabits-enable" type="bool" label="Activar lolabits.es" default="false"/>
+      <setting id="lolabits-username" type="text" label="Nombre de usuario" default="" visible="!eq(-1,false)"/>
+      <setting id="lolabits-password" type="text" label="Contraseña" default="" option="hidden" visible="!eq(-2,false)"/>
+      <setting id="lolabits-check" type="bool" label="30000" default="false" visible="false"/>
+      <setting type="sep"/>      
+      <setting id="aviso-extensao" type="bool" label="30000" default="true"/>
+      <setting id="ultima-pesquisa" type="text" label="Ultima busqueda" default="" visible="false"/>
+   </category>
+	<category label="30140">
+		<setting id="subtitles" type="bool" label="30143" default="false"/>
+		<setting type="sep"/>
+		<setting id="sublang1" type="select" label="30144" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" enable="!eq(-2,false)" default="English"/>
+		<setting id="sublang2" type="select" label="30145" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" enable="!eq(-3,false)" default="English"/>
+		<setting id="minsize" type="number" label="30146" default="20"/>		
+		<setting type="lsep" label="[CR]"/>
+		<setting type="lsep" label="30141"/>
+		<setting type="lsep" label="30142"/>
+	</category>		   
+</settings>

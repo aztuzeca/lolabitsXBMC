@@ -1,0 +1,87 @@
+[B]v1.0.0 (26 de Marco de 2015):[/B]
+Addon em actualizacao.
+- Actualizacao a nova estrutura do site (tks Leinad4Mind).
+- Novas cores (tks Leinad4Mind).
+- Adicionado suporte integrado ao Minhateca.
+
+[B]v0.1.02 (25 de Dezembro de 2014):[/B]
+- Possibilidade de play de exterior (ty mafarricos).
+
+[B]v0.1.01 (17 de Dezembro de 2014):[/B]
+- Traducoes corrigidas e alguns simbolos nao reconhecidos (tks Leinad4Mind).
+- Ultima pesquisa na textbox.
+- Correccoes no separador "Amigos".
+- Outras correccoes.
+
+[B]v0.1.00 (12 de Novembro de 2014):[/B]
+- Adicionado sistema de atalhos.
+- Adicionado botao de "uma pasta atras".
+- Conteudos da pesquisa vao para pasta e nao abrem directamente os conteudos.
+- Outras correccoes.
+
+[B]v0.0.14 (28 de Outubro de 2014):[/B]
+- Refix das legendas.
+
+[B]v0.0.13 (28 de Outubro de 2014):[/B]
+- Adicionado sistema automatico para pesquisa de legendas (ty mafarricos).
+- Corrigido legendas na mesma pasta. (ty mafarricos)
+- Adicionada opção para trailers (ty mafarricos).
+- Outras correcções.
+
+[B]v0.0.12 (26 de Agosto de 2014):[/B]
+- Fix no espaco ocupado por cada utilizador.
+- Outras correccoes e melhorias.
+
+[B]v0.0.11 (18 de Julho de 2014):[/B]
+- Adicionar pasta completa como playlist.(mafarricos)
+- Melhorias no sistema de playlist.(mafarricos)
+- Outras alteracoes. (mafarricos)
+
+[B]v0.0.10 (06 de Julho de 2014):[/B]
+- Corrigidos problemas na pesquisa.
+- Removido tamanho do ficheiro no nome do player.
+- Outras alteracoes.
+
+[B]v0.0.09 (05 de Julho de 2014):[/B]
+- Corrigida pesquisa nao funcional.
+- Outros bugs corrigidos.
+
+[B]v0.0.08 (28 de Marco de 2014):[/B]
+- Corrigidos varios problemas relacionados com o link final dos streams.
+
+[B]v0.0.07 (14 de Fevereiro de 2014):[/B]
+- Pesquisa corrigida.
+- Melhorias na escolha da pasta em download.
+
+[B]v0.0.06 (10 de Fevereiro de 2014):[/B]
+- Limpeza de codigo.
+- Paginacao na lista de amigos.
+- Outras correccoes.
+
+[B]v0.0.05 (26 de Janeiro de 2014):[/B]
+- Certos conteudos nao apareciam nas listagens (ty mafarricos).
+- Corrigido player caso gestor de download esteja activo.
+- Corrigido e melhorado visualizador de imagens.
+
+[B]v0.0.04 (21 de Dezembro de 2013):[/B]
+- Suporte a versao Gotham.
+- Correccoes internas.
+
+[B]v0.0.03 (20 de Novembro de 2013):[/B]
+- Correccao de bug que nao mostrava ficheiros.
+- Correccao de bug nas paginas.
+- Ficheiros ordenados por defeito pelo nome.
+- Adicionada area de amigos.
+- Novo modo playlist (menu de contexto).
+- Nova Funcionalidade de Download de ficheiros.
+- Corrigido problema em passwords com caracteres especiais.
+
+[B]v0.0.02 (13 de Novembro de 2013):[/B]
+- Corrigidos erros de script.
+- Corrigido bug na pesquisa.
+- Procura legendas na directoria caso esteja a reproduzir video.
+- Suporte a contas com password (diferente de pastas).
+- Traducao em ingles.
+
+[B]v0.0.01 (13 de Novembro de 2013):[/B]
+- Primeira release.

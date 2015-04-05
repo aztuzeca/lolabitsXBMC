@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.lolabits"
+       name="Lolabits.es"
+       version="1.0.0"
+       provider-name="fightnight/aztuzeca">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Contenidos del sitio Lolabits.es para Kodi/XBMC</summary>
+        <description>Visualización de los contenidos alojados en el sitio Lolabits.es</description>
+        <platform>all</platform>
+    </extension>
+</addon>
